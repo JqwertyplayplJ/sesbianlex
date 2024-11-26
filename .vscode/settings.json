@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "sesbianlex.sln"
+    "dotnet.defaultSolution": "My project.sln"
 }
